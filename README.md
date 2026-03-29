@@ -3,39 +3,43 @@
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
 
-## 🎯 Objective
-I worked on this project to analyze 50K+ sales records and understand revenue, customer behavior, and product performance.
+## 🎯 About This Project
+
+In this project, I analyzed sales data to understand how revenue, customers, and products are performing.
+The goal was to identify trends and highlight areas where the business can improve.
 
 ---
 
 ## 🛠️ Tools Used
-- SQL  
-- Excel  
-- Power BI  
+
+* SQL (data analysis)
+* Excel (data cleaning)
+* Power BI (dashboard creation)
 
 ---
 
-## 📈 Key Analysis
-- Sales and profit by region  
-- Category-wise profit analysis  
-- Monthly sales trend  
-- Top customers analysis  
-- Loss-making products detection  
+## 📈 What I Did
+
+* Analyzed sales and profit across different regions
+* Compared performance of product categories
+* Built a monthly sales trend analysis
+* Identified top customers
+* Detected loss-making products
 
 ---
 
-## 🔍 Key Insights
-- Central region generates highest revenue  
-- Technology category is most profitable  
-- Some products generate consistent losses  
-- Sales show an overall upward trend
-  
+## 🔍 Key Findings
+
+* Central region generates the highest sales
+* Technology category gives the most profit
+* Some products consistently result in losses
+* Sales show an overall increasing trend
 
 ---
 
-## 📂 Files Included
-- Sales dataset (CSV)  
-- SQL queries  
-- Dashboard screenshot  
+## 📂 Files in This Project
 
----
+* Sales dataset (CSV)
+* SQL queries used for analysis
+* Power BI dashboard screenshot
+
