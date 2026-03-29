@@ -42,4 +42,3 @@ The goal was to identify trends and highlight areas where the business can impro
 * Sales dataset (CSV)
 * SQL queries used for analysis
 * Power BI dashboard screenshot
-
