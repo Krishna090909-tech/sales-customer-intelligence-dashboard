@@ -1,5 +1,8 @@
 # 📊 Sales & Customer Intelligence Dashboard
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 🎯 Objective
 Analyze sales data to understand revenue trends, customer behavior, and product performance.
 
@@ -25,12 +28,8 @@ Analyze sales data to understand revenue trends, customer behavior, and product 
 - Central region generates highest revenue  
 - Technology category is most profitable  
 - Some products generate consistent losses  
-- Sales show an overall upward trend  
-
----
-
-## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+- Sales show an overall upward trend
+  
 
 ---
 
