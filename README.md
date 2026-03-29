@@ -4,7 +4,7 @@
 ![Dashboard](dashboard.png)
 
 ## 🎯 Objective
-Analyze sales data to understand revenue trends, customer behavior, and product performance.
+I worked on this project to analyze 50K+ sales records and understand revenue, customer behavior, and product performance.
 
 ---
 
