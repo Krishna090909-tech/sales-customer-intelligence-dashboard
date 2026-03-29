@@ -1,44 +1,48 @@
 # 📊 Sales & Customer Intelligence Dashboard
 
-## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
 
-## 🎯 About This Project
+## 🎯 About the Project
 
-In this project, I analyzed sales data to understand how revenue, customers, and products are performing.
-The goal was to identify trends and highlight areas where the business can improve.
+In this project, I analyzed a sales dataset to understand how revenue, customers, and products are performing. The goal was to identify trends and find useful business insights.
 
 ---
 
 ## 🛠️ Tools Used
 
-* SQL (data analysis)
-* Excel (data cleaning)
-* Power BI (dashboard creation)
+* SQL
+* Excel
+* Power BI
 
 ---
 
 ## 📈 What I Did
 
 * Analyzed sales and profit across different regions
-* Compared performance of product categories
-* Built a monthly sales trend analysis
-* Identified top customers
-* Detected loss-making products
+* Compared profit performance by product categories
+* Created a monthly sales trend analysis
+* Identified top customers based on revenue
+* Found products that are generating losses
 
 ---
 
-## 🔍 Key Findings
+## 🔍 Key Insights
 
-* Central region generates the highest sales
-* Technology category gives the most profit
-* Some products consistently result in losses
+* Central region contributes the highest sales
+* Technology category generates the most profit
+* Some products consistently lead to losses
 * Sales show an overall increasing trend
 
 ---
 
-## 📂 Files in This Project
+## 📂 Project Files
 
-* Sales dataset (CSV)
-* SQL queries used for analysis
-* Power BI dashboard screenshot
+* Sales_Dataset.csv → Raw dataset
+* analysis_queries.sql → SQL queries used for analysis
+* dashboard.png → Power BI dashboard
+
+---
+
+## 💡 Conclusion
+
+This project helped me understand how to convert raw data into meaningful insights using SQL and Power BI.
